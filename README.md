@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <style>
-        body {
-            background-color: rgb(0, 0, 0);
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        td {
-            padding: 10px;
-            vertical-align: top;
-            color:#ffffff
-        }
-        h1, h2 {
-            color: #ffffff;
-        }
-    </style>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tugas jOEL</title>
